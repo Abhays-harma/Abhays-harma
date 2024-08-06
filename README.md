@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhay Sharma and I'm a  from Delhi Technological University..</h2>
+<h2 align="left">Hi 👋! My name is Abhay Sharma and I'm from Delhi Technological University..</h2>
 
 ###
 
